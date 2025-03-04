@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdelmalek Jaqmiri
+# 👋 Hi, I'm Abd Almalik jakmery
 
 ## 🚀 Frontend Developer | Vue.js | 2 Years of Experience
 
