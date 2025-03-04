@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Abd Almalik jakmery
-
-## 🚀 Frontend Developer | Vue.js | 2 Years of Experience
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Abd Almalik jakmery
+===================================================================================================================================
+## 🚀 Frontend Developer | Vue.js | Nuxt.js
 
 I specialize in complex animations and translating designs into pixel-perfect code with high precision. My expertise includes:
 
