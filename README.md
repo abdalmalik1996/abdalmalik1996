@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 ## 🚀 Frontend Developer | Vue.js | Nuxt.js
 
-I specialize in complex animations and translating designs into pixel-perfect code with high precision. My expertise includes:
+Hi! I'm Abd Almalik Jakmery, a passionate Front-End Developer with a focus on building high-performance web applications that combine visually stunning design with exceptional user experiences. I specialize in Vue.js, Nuxt.js, and TypeScript, and I am skilled at translating designs into pixel-perfect code, creating complex animations, and designing seamless user interfaces.
 
 ### 🛠️ Technologies & Skills
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
